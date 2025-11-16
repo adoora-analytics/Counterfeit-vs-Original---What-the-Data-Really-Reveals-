@@ -1,6 +1,6 @@
 # 🛍️ Counterfeit vs Original — What the Data Really Reveals
 
-A data-driven analysis of counterfeit vs original products - exploring patterns in risk factors, seller credibility, and product authenticity using Power Query & Power BI.
+A data-driven analysis of counterfeit vs original products that explores patterns in risk factors, seller credibility, and product authenticity using Power Query & Power BI.
 
 ---
 
