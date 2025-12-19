@@ -58,7 +58,7 @@ Read full breakdown & methodology here  [Medium Article](https://obajimiaduraa.m
 
 Read the full write-up here  [Medium Article](https://obajimiaduraa.medium.com/counterfeit-vs-original-what-the-data-really-reveals-5a645c412345)
 
-Explore the interactive dashboard  [Explore Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjk2YzBmODktOTYxYS00MTU5LWIwZDYtODc5Zjg2NTZkZjcxIiwidCI6ImE1ODNjYzNlLTRmNDgtNDM2Ni1hMTY1LWI5Mzk5YzM0ODY0MSJ9&pageName=a3fbca275bf3cba4093b) 
+Explore and interact with the dashboard  [Explore Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjk2YzBmODktOTYxYS00MTU5LWIwZDYtODc5Zjg2NTZkZjcxIiwidCI6ImE1ODNjYzNlLTRmNDgtNDM2Ni1hMTY1LWI5Mzk5YzM0ODY0MSJ9&pageName=a3fbca275bf3cba4093b) 
 
 #### 1️ Products (Counterfeit vs Original)  
 ![Products](images/counterfeit_dashboard-1.png)
